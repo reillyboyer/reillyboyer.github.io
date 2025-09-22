@@ -21,7 +21,7 @@
   const status = document.getElementById('formStatus');
 
   // Replace with your Formspree endpoint: https://formspree.io/f/{your_id}
-  const FORMSPREE_ENDPOINT = 'https://formspree.io/f/xxxxxxxx'; // TODO: replace
+  const FORMSPREE_ENDPOINT = 'https://formspree.io/f/mqayznle'; // TODO: replace
 
   if (form) {
     form.addEventListener('submit', async (e) => {
